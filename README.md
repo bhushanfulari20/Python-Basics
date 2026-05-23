@@ -23,3 +23,5 @@ if-else conditions.
 2. Download the file
 3. Run: python python_programs.py
 
+## License
+[MIT License](LICENSE)
